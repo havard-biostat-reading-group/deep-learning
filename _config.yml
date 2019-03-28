@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://havard-biostat-reading-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/deep-learning" # the subpath of your site, e.g. "/blog"
-repository               : "havard-biostat-reading-group/deep-learning"
+repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Deep Learning Reading Group"
-  avatar           : "brain.png"
+  name             : ""
+  avatar           : "brain.jpg"
   bio              : ""
   location         : "Building II, Room 426"
   employer         :
@@ -173,6 +173,9 @@ kramdown:
 
 # Collections
 collections:
+  content:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -242,6 +245,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _content
+  - scope:
+      path: ""
+      type: content
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -306,4 +317,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+envs: development
