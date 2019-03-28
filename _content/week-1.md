@@ -1,5 +1,5 @@
 ---
-title: "Week 1"
+title: "Week 1: Universal Approximation Theorem"
 collection: content
 permalink: /content/week-1
 date: 2019-03-26
