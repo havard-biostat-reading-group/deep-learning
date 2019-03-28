@@ -7,4 +7,4 @@ date: 2019-03-12
 ---
 A Brief Introduction.
 
-[Description](files/papers/Description.docx)
+[Description](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/Description.docx)

@@ -11,6 +11,6 @@ I have attached reading list for next week. The focus will be to understand the 
 
 We do not meet this week since a few might be traveling for the spring break.
 
-* [Multilayer Feedforward Networks are Universal Approximators](http://academicpages.github.io/files/paper2.pdf)
-* [Universal approximation bounds for superpositions of a sigmoidal function](http://academicpages.github.io/files/paper2.pdf)
-* [Error bounds for approximations with deep ReLU networks](http://academicpages.github.io/files/paper2.pdf)
+* [Hornik (1989) Multilayer Feedforward Networks are Universal Approximators](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/hornik.pdf)
+* [Barron (1989) Universal approximation bounds for superpositions of a sigmoidal function](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/barron.pdf)
+* [Yarotsky (2017) Error bounds for approximations with deep ReLU networks](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/barron.pdf)
