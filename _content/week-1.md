@@ -2,7 +2,9 @@ Week 1: Universal Approximation Theorem
 
 2019-03-26
 
-Readings for March 26, 2019
+Readings for March 26, 2019.
+
+Dear All
 
 I have attached reading list for next week. The focus will be to
 understand the chronological development on the understanding of the
