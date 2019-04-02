@@ -82,9 +82,9 @@ analytics:
 author:
   name             : ""
   avatar           : "brain.jpg"
-  bio              : ""
-  location         : "Building II, Room 426"
-  employer         :
+  bio              : "Deep Learning Reading Group at Department of Biostatistics, Harvard T.H. Chan School of Public Health"
+  location         : "Tuesday’s 3:30-5 pm"
+  employer         : "Building II, Room 426"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :

@@ -1,10 +1,17 @@
- “Deep Learning” Reading Group
+---
+permalink: /
+title: Deep Learning Reading Group
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
- Tuesday’s 3:30-5 pm
 
- Room 426, Building II
+- **Time**: Tuesday’s 3:30-5 pm
+- **Location**: Room 426, Kresge Building II, Harvard T.H. Chan School of Public Health
 
- Harvard T.H. Chan School of Public Health
 
 In this reading group, we plan to explore specific aspects of the
 subject area which include (i) approximation and learning theory, (iii)

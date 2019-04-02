@@ -1,6 +1,9 @@
-Week 1: Universal Approximation Theorem
-
-2019-03-26
+---
+title: "Week 1: Universal Approximation Theorem"
+collection: content
+permalink: /content/week-1
+date: 2019-03-26
+---
 
 Dear All
 
@@ -11,17 +14,9 @@ expressive power of deep neural nets.
 We do not meet this week since a few might be traveling for the spring
 break.
 
--   [Hornik (1989) Multilayer Feedforward Networks are Universal
-    Approximators][]
+* [Hornik (1989) Multilayer Feedforward Networks are Universal Approximators](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/hornik.pdf)
 
--   [Barron (1989) Universal approximation bounds for superpositions of
-    a sigmoidal function][]
+* [Barron (1989) Universal approximation bounds for superpositions of a sigmoidal function](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/barron.pdf)
 
--   [Yarotsky (2017) Error bounds for approximations with deep ReLU
-    networks][Barron (1989) Universal approximation bounds for
-    superpositions of a sigmoidal function]
+* [Yarotsky (2017) Error bounds for approximations with deep ReLU networks](https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/yarotsky.pdf)
 
-  [Hornik (1989) Multilayer Feedforward Networks are Universal
-  Approximators]: https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/hornik.pdf
-  [Barron (1989) Universal approximation bounds for superpositions of a
-  sigmoidal function]: https://havard-biostat-reading-group.github.io/deep-learning/files/papers/week1/barron.pdf
